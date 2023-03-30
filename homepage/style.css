@@ -1,0 +1,28 @@
+html {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 20.9px;
+    color: #5F9EA0;
+}
+h1 {
+    color: #5F9EA0;
+    text-align: center;
+}
+#Jacksonheights {
+width: 520px;
+}
+.container {
+width: 520px;
+margin: auto;
+}
+body {
+background-image: url("heights picture.jpeg");
+height: 100vh;
+
+}
+p {
+font-family: Roboto;
+font-size: 35px;
+}
+t
+</style>
